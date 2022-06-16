@@ -1,1 +1,0 @@
-import{_ as a,o as t,c,a as e,e as r}from"./app.db27eb39.js";const o={},s=e("h1",{id:"\u707E\u96BE\u4E4B\u8F6E",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u707E\u96BE\u4E4B\u8F6E","aria-hidden":"true"},"#"),r(" \u707E\u96BE\u4E4B\u8F6E")],-1),_=[s];function n(d,i){return t(),c("div",null,_)}var l=a(o,[["render",n],["__file","wmc.html.vue"]]);export{l as default};

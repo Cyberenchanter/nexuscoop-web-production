@@ -1,1 +1,0 @@
-const t={key:"v-725309bb",path:"/tutorial/vincent-game/",title:"\u52C7\u6562\u8005\u6E38\u620F\u6559\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643321909e3,contributors:[{name:"MengLuoRJ",email:"mengluor@gmail.com",commits:1}]},filePathRelative:"tutorial/vincent-game/README.md"};export{t as data};

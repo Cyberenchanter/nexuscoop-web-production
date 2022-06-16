@@ -1,1 +1,0 @@
-const t={key:"v-35d9b82c",path:"/patch-notes/",title:"\u66F4\u65B0\u65E5\u5FD7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643321909e3,contributors:[{name:"MengLuoRJ",email:"mengluor@gmail.com",commits:1}]},filePathRelative:"patch-notes/README.md"};export{t as data};

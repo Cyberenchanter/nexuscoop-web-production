@@ -1,1 +1,0 @@
-const e={key:"v-bd09e8de",path:"/chrono-temple/",title:"\u514B\u6D1B\u8BFA\u65AF\u795E\u6BBF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643321909e3,contributors:[{name:"MengLuoRJ",email:"mengluor@gmail.com",commits:2}]},filePathRelative:"chrono-temple/README.md"};export{e as data};

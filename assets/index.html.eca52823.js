@@ -1,1 +1,0 @@
-const t={key:"v-90ca918c",path:"/tutorial/wmc/",title:"\u707E\u96BE\u4E4B\u8F6E\u6559\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643321909e3,contributors:[{name:"MengLuoRJ",email:"mengluor@gmail.com",commits:1}]},filePathRelative:"tutorial/wmc/README.md"};export{t as data};
